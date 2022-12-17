@@ -1,1 +1,1 @@
-# Code amorce pour le TP4 RPG
+# Code pour le TP4 RPG
